@@ -75,5 +75,4 @@ http://localhost:8080/
 
 This project is developed for **educational purposes only**.
 
-## 🗂️ Project Structure
 
